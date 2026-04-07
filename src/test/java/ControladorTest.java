@@ -13,4 +13,13 @@ public class ControladorTest {
 
         Assertions.assertEquals("*La* mujer *me* *a* *demandé* *de* *faire* *mes* tarea *sur* *ma* pueblo.", controlador.traducirTexto());
     }
+
+    @Test
+    public void pruebaUpperAndCapital(){
+        Controlador controlador = new Controlador();
+        controlador.seleccionarDiccionario("src/test/resources/diccionario1.txt");
+        controlador.seleccionarTexto("src/test/resources/texto2.txt");
+
+        Assertions.assertEquals("*La* MUJER *me* *a* *demandé* *de* *faire* *mes* tarea *sur* *ma* Pueblo.", controlador.traducirTexto());
+    }
 }

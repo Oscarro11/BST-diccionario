@@ -29,6 +29,8 @@ public class Controlador {
 
         diccionario = new BST<>();
         for (Association<String,String> entrada : entradas) {
+            entrada.setLlave(entrada.getLlave().toLowerCase());
+            entrada.setValor(entrada.getValor().toLowerCase());
             diccionario.agregar(entrada);
         }
     }
@@ -58,24 +60,31 @@ public class Controlador {
             for (String word : texto.split(" ")) {
                 String leadingSymbols = "";
                 String trailingSymbols = "";
-                
+                String keyword;
+
                 leadingMatcher.reset(word);
                 trailingMatcher.reset(word);
 
-                if (leadingMatcher.find()) {
-                    leadingSymbols = leadingMatcher.group();
-                }
-
-                if (trailingMatcher.find()) {
-                    trailingSymbols = trailingMatcher.group();
-                }
+                if (leadingMatcher.find()) { leadingSymbols = leadingMatcher.group(); }
+                if (trailingMatcher.find()) { trailingSymbols = trailingMatcher.group(); }
 
                 word = word.replaceAll("^[^0-9\\p{L}\\s]+|[^0-9\\p{L}\\s]+$", "");
-                Association<String, String> traduccion = diccionario.buscar(new Association<String,String>(word, ""));
+                keyword = word.toLowerCase();
+
+                Association<String, String> traduccion = diccionario.buscar(new Association<String,String>(keyword, ""));
 
                 builder.append(leadingSymbols);
                 if (traduccion != null) {
-                    builder.append(traduccion.getValor() + trailingSymbols);
+                    if (word.matches("[A-Z]+")) {
+                        builder.append(traduccion.getValor().toUpperCase() + trailingSymbols);
+                    }
+                    else if (word.matches("^[A-Z].*")) {
+                        builder.append(traduccion.getValor().substring(0, 1).toUpperCase()
+                        + traduccion.getValor().substring(1) + trailingSymbols);
+                    }
+                    else{
+                        builder.append(traduccion.getValor() + trailingSymbols);
+                    } 
                 }
                 else{
                     builder.append("*" + word + leadingSymbols + "*");

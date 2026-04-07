@@ -31,4 +31,11 @@ public class Association <K extends Comparable<K>, V> implements Comparable<Asso
     public V getValor() {
         return valor;
     }
+
+    public void setLlave(K llave) {
+        this.llave = llave;
+    }
+    public void setValor(V valor) {
+        this.valor = valor;
+    }
 }
