@@ -1,5 +1,3 @@
-package test.java;
-
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.BeforeAll;
@@ -7,7 +5,7 @@ import java.util.List;
 import java.util.ArrayList;
 import java.util.Arrays;
 
-import main.BST.BST;
+import com.example.BST.BST;
 
 public class BSTTest {
     public static BST<Integer> arbol = new BST<Integer>();

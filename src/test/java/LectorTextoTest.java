@@ -1,13 +1,11 @@
-package test.java;
-
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
-import org.junit.jupiter.api.BeforeAll;
+
+import com.example.Association;
+import com.example.LectorTexto;
+
 import java.util.List;
 import java.util.ArrayList;
-
-import main.Association;
-import main.LectorTexto;
 
 public class LectorTextoTest {
     

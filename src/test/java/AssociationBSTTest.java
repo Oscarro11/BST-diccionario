@@ -1,13 +1,13 @@
-package test.java;
-
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
+
+import com.example.Association;
+
 import org.junit.jupiter.api.BeforeAll;
 import java.util.List;
 import java.util.ArrayList;
 
-import main.BST.BST;
-import main.Association;
+import com.example.BST.BST;
 
 public class AssociationBSTTest {
     private static BST<Association<String, String>> arbol;
@@ -46,7 +46,7 @@ public class AssociationBSTTest {
 
     @Test
     public void buscarInexistente(){
-        Association<String, String> objetoBusqueda = new Association<String,String>("femme", "hombre");
+        Association<String, String> objetoBusqueda = new Association<String,String>("fememem","sss");
         Assertions.assertEquals(null, arbol.buscar(objetoBusqueda));
 
         objetoBusqueda = new Association<String,String>("monsieur", "mujer");

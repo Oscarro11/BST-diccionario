@@ -1,4 +1,4 @@
-package main.BST;
+package com.example.BST;
 
 public class NodoBST<T> {
     

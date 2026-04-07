@@ -1,4 +1,4 @@
-package main;
+package com.example;
 
 public class Association <K extends Comparable<K>, V> implements Comparable<Association<K, V>>{
     
@@ -16,10 +16,11 @@ public class Association <K extends Comparable<K>, V> implements Comparable<Asso
     }
 
     @Override
+    @SuppressWarnings("unchecked")
     public boolean equals(Object obj) {
         if (obj instanceof Association) {
             Association<K, V> association = (Association<K, V>) obj;    
-            return (association.getLlave().equals(this.llave) && association.getValor().equals(this.valor));
+            return association.getLlave().equals(this.llave);
         }
         return false;
     }
