@@ -35,7 +35,7 @@ public class ControladorTest {
     @Test
     public void pruebaIngles2(){
         Controlador controlador = new Controlador();
-        controlador.seleccionarDiccionario("src/test/resources/diccionarioIngles.txt");
+        controlador.seleccionarDiccionario("src/test/resources/diccionarioInglesBig.txt");
         controlador.seleccionarTexto("src/test/resources/textoIngles2.txt");
 
         Assertions.assertTrue(controlador.traducirTexto() != null);

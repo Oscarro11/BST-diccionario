@@ -1,0 +1,270 @@
+(Haus, casa) (Hund, perro) (Katze, gato) (Wasser, agua) (Buch, libro)
+(Auto, coche) (Straße, calle) (Schule, escuela) (Lehrer, maestro)
+(Schüler, estudiante) (Sonne, sol) (Mond, luna) (Stern, estrella)
+(Himmel, cielo) (Erde, tierra) (Feuer, fuego) (Luft, aire) (Baum, árbol)
+(Blume, flor) (Fluss, río) (Berg, montaña) (Meer, mar) (Freund, amigo)
+(Familie, familia) (Liebe, amor) (Zeit, tiempo) (Tag, día) (Nacht,
+noche) (Morgen, mañana) (Abend, tarde) (Geld, dinero) (Arbeit, trabajo)
+(Stadt, ciudad) (Land, país) (Sprache, idioma) (Musik, música) (Film,
+película) (Spiel, juego) (Computer, computadora) (Telefon, teléfono)
+(Tisch, mesa) (Stuhl, silla) (Fenster, ventana) (Tür, puerta) (Bett,
+cama) (Kleidung, ropa) (Schuh, zapato) (Brot, pan) (Apfel, manzana)
+(Regen, lluvia) (Wind, viento) (Schnee, nieve) (Sommer, verano) (Winter,
+invierno) (Frühling, primavera) (Herbst, otoño) (Farbe, color) (Rot,
+rojo) (Blau, azul) (Grün, verde) (Gelb, amarillo) (Schwarz, negro)
+(Weiß, blanco) (Braun, marrón) (Glücklich, feliz) (Traurig, triste)
+(Schnell, rápido) (Langsam, lento) (Groß, grande) (Klein, pequeño) (Alt,
+viejo) (Neu, nuevo) (Früh, temprano) (Spät, tarde) (Öffnen, abrir)
+(Schließen, cerrar) (Beginnen, empezar) (Ende, fin) (Kaufen, comprar)
+(Verkaufen, vender) (Zahlen, pagar) (Senden, enviar) (Empfangen,
+recibir) (Helfen, ayudar) (Spielen, jugar) (Laufen, correr) (Gehen,
+caminar) (Springen, saltar) (Sitzen, sentarse) (Stehen, pararse)
+(Schreiben, escribir) (Lesen, leer) (Sprechen, hablar) (Hören, oír)
+(Sehen, ver) (Hauszimmer, haus zimmer) (Hausplatz, haus platz)
+(Hausraum, haus raum) (Hausweg, haus weg) (Hausbuch, haus buch)
+(Haushaus, haus haus) (Hausmarkt, haus markt) (Haustag, haus tag)
+(Hauswelt, haus welt) (Hausplan, haus plan) (Autozimmer, auto zimmer)
+(Autoplatz, auto platz) (Autoraum, auto raum) (Autoweg, auto weg)
+(Autobuch, auto buch) (Autohaus, auto haus) (Automarkt, auto markt)
+(Autotag, auto tag) (Autowelt, auto welt) (Autoplan, auto plan)
+(Kinderzimmer, kinder zimmer) (Kinderplatz, kinder platz) (Kinderraum,
+kinder raum) (Kinderweg, kinder weg) (Kinderbuch, kinder buch)
+(Kinderhaus, kinder haus) (Kindermarkt, kinder markt) (Kindertag, kinder
+tag) (Kinderwelt, kinder welt) (Kinderplan, kinder plan) (Arbeitszimmer,
+arbeits zimmer) (Arbeitsplatz, arbeits platz) (Arbeitsraum, arbeits
+raum) (Arbeitsweg, arbeits weg) (Arbeitsbuch, arbeits buch)
+(Arbeitshaus, arbeits haus) (Arbeitsmarkt, arbeits markt) (Arbeitstag,
+arbeits tag) (Arbeitswelt, arbeits welt) (Arbeitsplan, arbeits plan)
+(Schulzimmer, schul zimmer) (Schulplatz, schul platz) (Schulraum, schul
+raum) (Schulweg, schul weg) (Schulbuch, schul buch) (Schulhaus, schul
+haus) (Schulmarkt, schul markt) (Schultag, schul tag) (Schulwelt, schul
+welt) (Schulplan, schul plan) (Wasserzimmer, wasser zimmer)
+(Wasserplatz, wasser platz) (Wasserraum, wasser raum) (Wasserweg, wasser
+weg) (Wasserbuch, wasser buch) (Wasserhaus, wasser haus) (Wassermarkt,
+wasser markt) (Wassertag, wasser tag) (Wasserwelt, wasser welt)
+(Wasserplan, wasser plan) (Bergzimmer, berg zimmer) (Bergplatz, berg
+platz) (Bergraum, berg raum) (Bergweg, berg weg) (Bergbuch, berg buch)
+(Berghaus, berg haus) (Bergmarkt, berg markt) (Bergtag, berg tag)
+(Bergwelt, berg welt) (Bergplan, berg plan) (Handzimmer, hand zimmer)
+(Handplatz, hand platz) (Handraum, hand raum) (Handweg, hand weg)
+(Handbuch, hand buch) (Handhaus, hand haus) (Handmarkt, hand markt)
+(Handtag, hand tag) (Handwelt, hand welt) (Handplan, hand plan)
+(Lichtzimmer, licht zimmer) (Lichtplatz, licht platz) (Lichtraum, licht
+raum) (Lichtweg, licht weg) (Lichtbuch, licht buch) (Lichthaus, licht
+haus) (Lichtmarkt, licht markt) (Lichttag, licht tag) (Lichtwelt, licht
+welt) (Lichtplan, licht plan) (Zeitzimmer, zeit zimmer) (Zeitplatz, zeit
+platz) (Zeitraum, zeit raum) (Zeitweg, zeit weg) (Zeitbuch, zeit buch)
+(Zeithaus, zeit haus) (Zeitmarkt, zeit markt) (Zeittag, zeit tag)
+(Zeitwelt, zeit welt) (Zeitplan, zeit plan) (Mann0, mann) (Frau1, frau)
+(Kind2, kind) (Tag3, tag) (Jahr4, jahr) (Woche5, woche) (Minute6,
+minute) (Stunde7, stunde) (Welt8, welt) (Frage9, frage) (Antwort10,
+antwort) (Problem11, problem) (Lösung12, lösung) (Idee13, idee) (Plan14,
+plan) (Mann15, mann) (Frau16, frau) (Kind17, kind) (Tag18, tag) (Jahr19,
+jahr) (Woche20, woche) (Minute21, minute) (Stunde22, stunde) (Welt23,
+welt) (Frage24, frage) (Antwort25, antwort) (Problem26, problem)
+(Lösung27, lösung) (Idee28, idee) (Plan29, plan) (Mann30, mann) (Frau31,
+frau) (Kind32, kind) (Tag33, tag) (Jahr34, jahr) (Woche35, woche)
+(Minute36, minute) (Stunde37, stunde) (Welt38, welt) (Frage39, frage)
+(Antwort40, antwort) (Problem41, problem) (Lösung42, lösung) (Idee43,
+idee) (Plan44, plan) (Mann45, mann) (Frau46, frau) (Kind47, kind)
+(Tag48, tag) (Jahr49, jahr) (Woche50, woche) (Minute51, minute)
+(Stunde52, stunde) (Welt53, welt) (Frage54, frage) (Antwort55, antwort)
+(Problem56, problem) (Lösung57, lösung) (Idee58, idee) (Plan59, plan)
+(Mann60, mann) (Frau61, frau) (Kind62, kind) (Tag63, tag) (Jahr64, jahr)
+(Woche65, woche) (Minute66, minute) (Stunde67, stunde) (Welt68, welt)
+(Frage69, frage) (Antwort70, antwort) (Problem71, problem) (Lösung72,
+lösung) (Idee73, idee) (Plan74, plan) (Mann75, mann) (Frau76, frau)
+(Kind77, kind) (Tag78, tag) (Jahr79, jahr) (Woche80, woche) (Minute81,
+minute) (Stunde82, stunde) (Welt83, welt) (Frage84, frage) (Antwort85,
+antwort) (Problem86, problem) (Lösung87, lösung) (Idee88, idee) (Plan89,
+plan) (Mann90, mann) (Frau91, frau) (Kind92, kind) (Tag93, tag) (Jahr94,
+jahr) (Woche95, woche) (Minute96, minute) (Stunde97, stunde) (Welt98,
+welt) (Frage99, frage) (Antwort100, antwort) (Problem101, problem)
+(Lösung102, lösung) (Idee103, idee) (Plan104, plan) (Mann105, mann)
+(Frau106, frau) (Kind107, kind) (Tag108, tag) (Jahr109, jahr) (Woche110,
+woche) (Minute111, minute) (Stunde112, stunde) (Welt113, welt)
+(Frage114, frage) (Antwort115, antwort) (Problem116, problem)
+(Lösung117, lösung) (Idee118, idee) (Plan119, plan) (Mann120, mann)
+(Frau121, frau) (Kind122, kind) (Tag123, tag) (Jahr124, jahr) (Woche125,
+woche) (Minute126, minute) (Stunde127, stunde) (Welt128, welt)
+(Frage129, frage) (Antwort130, antwort) (Problem131, problem)
+(Lösung132, lösung) (Idee133, idee) (Plan134, plan) (Mann135, mann)
+(Frau136, frau) (Kind137, kind) (Tag138, tag) (Jahr139, jahr) (Woche140,
+woche) (Minute141, minute) (Stunde142, stunde) (Welt143, welt)
+(Frage144, frage) (Antwort145, antwort) (Problem146, problem)
+(Lösung147, lösung) (Idee148, idee) (Plan149, plan) (Mann150, mann)
+(Frau151, frau) (Kind152, kind) (Tag153, tag) (Jahr154, jahr) (Woche155,
+woche) (Minute156, minute) (Stunde157, stunde) (Welt158, welt)
+(Frage159, frage) (Antwort160, antwort) (Problem161, problem)
+(Lösung162, lösung) (Idee163, idee) (Plan164, plan) (Mann165, mann)
+(Frau166, frau) (Kind167, kind) (Tag168, tag) (Jahr169, jahr) (Woche170,
+woche) (Minute171, minute) (Stunde172, stunde) (Welt173, welt)
+(Frage174, frage) (Antwort175, antwort) (Problem176, problem)
+(Lösung177, lösung) (Idee178, idee) (Plan179, plan) (Mann180, mann)
+(Frau181, frau) (Kind182, kind) (Tag183, tag) (Jahr184, jahr) (Woche185,
+woche) (Minute186, minute) (Stunde187, stunde) (Welt188, welt)
+(Frage189, frage) (Antwort190, antwort) (Problem191, problem)
+(Lösung192, lösung) (Idee193, idee) (Plan194, plan) (Mann195, mann)
+(Frau196, frau) (Kind197, kind) (Tag198, tag) (Jahr199, jahr) (Woche200,
+woche) (Minute201, minute) (Stunde202, stunde) (Welt203, welt)
+(Frage204, frage) (Antwort205, antwort) (Problem206, problem)
+(Lösung207, lösung) (Idee208, idee) (Plan209, plan) (Mann210, mann)
+(Frau211, frau) (Kind212, kind) (Tag213, tag) (Jahr214, jahr) (Woche215,
+woche) (Minute216, minute) (Stunde217, stunde) (Welt218, welt)
+(Frage219, frage) (Antwort220, antwort) (Problem221, problem)
+(Lösung222, lösung) (Idee223, idee) (Plan224, plan) (Mann225, mann)
+(Frau226, frau) (Kind227, kind) (Tag228, tag) (Jahr229, jahr) (Woche230,
+woche) (Minute231, minute) (Stunde232, stunde) (Welt233, welt)
+(Frage234, frage) (Antwort235, antwort) (Problem236, problem)
+(Lösung237, lösung) (Idee238, idee) (Plan239, plan) (Mann240, mann)
+(Frau241, frau) (Kind242, kind) (Tag243, tag) (Jahr244, jahr) (Woche245,
+woche) (Minute246, minute) (Stunde247, stunde) (Welt248, welt)
+(Frage249, frage) (Antwort250, antwort) (Problem251, problem)
+(Lösung252, lösung) (Idee253, idee) (Plan254, plan) (Mann255, mann)
+(Frau256, frau) (Kind257, kind) (Tag258, tag) (Jahr259, jahr) (Woche260,
+woche) (Minute261, minute) (Stunde262, stunde) (Welt263, welt)
+(Frage264, frage) (Antwort265, antwort) (Problem266, problem)
+(Lösung267, lösung) (Idee268, idee) (Plan269, plan) (Mann270, mann)
+(Frau271, frau) (Kind272, kind) (Tag273, tag) (Jahr274, jahr) (Woche275,
+woche) (Minute276, minute) (Stunde277, stunde) (Welt278, welt)
+(Frage279, frage) (Antwort280, antwort) (Problem281, problem)
+(Lösung282, lösung) (Idee283, idee) (Plan284, plan) (Mann285, mann)
+(Frau286, frau) (Kind287, kind) (Tag288, tag) (Jahr289, jahr) (Woche290,
+woche) (Minute291, minute) (Stunde292, stunde) (Welt293, welt)
+(Frage294, frage) (Antwort295, antwort) (Problem296, problem)
+(Lösung297, lösung) (Idee298, idee) (Plan299, plan) (Mann300, mann)
+(Frau301, frau) (Kind302, kind) (Tag303, tag) (Jahr304, jahr) (Woche305,
+woche) (Minute306, minute) (Stunde307, stunde) (Welt308, welt)
+(Frage309, frage) (Antwort310, antwort) (Problem311, problem)
+(Lösung312, lösung) (Idee313, idee) (Plan314, plan) (Mann315, mann)
+(Frau316, frau) (Kind317, kind) (Tag318, tag) (Jahr319, jahr) (Woche320,
+woche) (Minute321, minute) (Stunde322, stunde) (Welt323, welt)
+(Frage324, frage) (Antwort325, antwort) (Problem326, problem)
+(Lösung327, lösung) (Idee328, idee) (Plan329, plan) (Mann330, mann)
+(Frau331, frau) (Kind332, kind) (Tag333, tag) (Jahr334, jahr) (Woche335,
+woche) (Minute336, minute) (Stunde337, stunde) (Welt338, welt)
+(Frage339, frage) (Antwort340, antwort) (Problem341, problem)
+(Lösung342, lösung) (Idee343, idee) (Plan344, plan) (Mann345, mann)
+(Frau346, frau) (Kind347, kind) (Tag348, tag) (Jahr349, jahr) (Woche350,
+woche) (Minute351, minute) (Stunde352, stunde) (Welt353, welt)
+(Frage354, frage) (Antwort355, antwort) (Problem356, problem)
+(Lösung357, lösung) (Idee358, idee) (Plan359, plan) (Mann360, mann)
+(Frau361, frau) (Kind362, kind) (Tag363, tag) (Jahr364, jahr) (Woche365,
+woche) (Minute366, minute) (Stunde367, stunde) (Welt368, welt)
+(Frage369, frage) (Antwort370, antwort) (Problem371, problem)
+(Lösung372, lösung) (Idee373, idee) (Plan374, plan) (Mann375, mann)
+(Frau376, frau) (Kind377, kind) (Tag378, tag) (Jahr379, jahr) (Woche380,
+woche) (Minute381, minute) (Stunde382, stunde) (Welt383, welt)
+(Frage384, frage) (Antwort385, antwort) (Problem386, problem)
+(Lösung387, lösung) (Idee388, idee) (Plan389, plan) (Mann390, mann)
+(Frau391, frau) (Kind392, kind) (Tag393, tag) (Jahr394, jahr) (Woche395,
+woche) (Minute396, minute) (Stunde397, stunde) (Welt398, welt)
+(Frage399, frage) (Antwort400, antwort) (Problem401, problem)
+(Lösung402, lösung) (Idee403, idee) (Plan404, plan) (Mann405, mann)
+(Frau406, frau) (Kind407, kind) (Tag408, tag) (Jahr409, jahr) (Woche410,
+woche) (Minute411, minute) (Stunde412, stunde) (Welt413, welt)
+(Frage414, frage) (Antwort415, antwort) (Problem416, problem)
+(Lösung417, lösung) (Idee418, idee) (Plan419, plan) (Mann420, mann)
+(Frau421, frau) (Kind422, kind) (Tag423, tag) (Jahr424, jahr) (Woche425,
+woche) (Minute426, minute) (Stunde427, stunde) (Welt428, welt)
+(Frage429, frage) (Antwort430, antwort) (Problem431, problem)
+(Lösung432, lösung) (Idee433, idee) (Plan434, plan) (Mann435, mann)
+(Frau436, frau) (Kind437, kind) (Tag438, tag) (Jahr439, jahr) (Woche440,
+woche) (Minute441, minute) (Stunde442, stunde) (Welt443, welt)
+(Frage444, frage) (Antwort445, antwort) (Problem446, problem)
+(Lösung447, lösung) (Idee448, idee) (Plan449, plan) (Mann450, mann)
+(Frau451, frau) (Kind452, kind) (Tag453, tag) (Jahr454, jahr) (Woche455,
+woche) (Minute456, minute) (Stunde457, stunde) (Welt458, welt)
+(Frage459, frage) (Antwort460, antwort) (Problem461, problem)
+(Lösung462, lösung) (Idee463, idee) (Plan464, plan) (Mann465, mann)
+(Frau466, frau) (Kind467, kind) (Tag468, tag) (Jahr469, jahr) (Woche470,
+woche) (Minute471, minute) (Stunde472, stunde) (Welt473, welt)
+(Frage474, frage) (Antwort475, antwort) (Problem476, problem)
+(Lösung477, lösung) (Idee478, idee) (Plan479, plan) (Mann480, mann)
+(Frau481, frau) (Kind482, kind) (Tag483, tag) (Jahr484, jahr) (Woche485,
+woche) (Minute486, minute) (Stunde487, stunde) (Welt488, welt)
+(Frage489, frage) (Antwort490, antwort) (Problem491, problem)
+(Lösung492, lösung) (Idee493, idee) (Plan494, plan) (Mann495, mann)
+(Frau496, frau) (Kind497, kind) (Tag498, tag) (Jahr499, jahr) (Woche500,
+woche) (Minute501, minute) (Stunde502, stunde) (Welt503, welt)
+(Frage504, frage) (Antwort505, antwort) (Problem506, problem)
+(Lösung507, lösung) (Idee508, idee) (Plan509, plan) (Mann510, mann)
+(Frau511, frau) (Kind512, kind) (Tag513, tag) (Jahr514, jahr) (Woche515,
+woche) (Minute516, minute) (Stunde517, stunde) (Welt518, welt)
+(Frage519, frage) (Antwort520, antwort) (Problem521, problem)
+(Lösung522, lösung) (Idee523, idee) (Plan524, plan) (Mann525, mann)
+(Frau526, frau) (Kind527, kind) (Tag528, tag) (Jahr529, jahr) (Woche530,
+woche) (Minute531, minute) (Stunde532, stunde) (Welt533, welt)
+(Frage534, frage) (Antwort535, antwort) (Problem536, problem)
+(Lösung537, lösung) (Idee538, idee) (Plan539, plan) (Mann540, mann)
+(Frau541, frau) (Kind542, kind) (Tag543, tag) (Jahr544, jahr) (Woche545,
+woche) (Minute546, minute) (Stunde547, stunde) (Welt548, welt)
+(Frage549, frage) (Antwort550, antwort) (Problem551, problem)
+(Lösung552, lösung) (Idee553, idee) (Plan554, plan) (Mann555, mann)
+(Frau556, frau) (Kind557, kind) (Tag558, tag) (Jahr559, jahr) (Woche560,
+woche) (Minute561, minute) (Stunde562, stunde) (Welt563, welt)
+(Frage564, frage) (Antwort565, antwort) (Problem566, problem)
+(Lösung567, lösung) (Idee568, idee) (Plan569, plan) (Mann570, mann)
+(Frau571, frau) (Kind572, kind) (Tag573, tag) (Jahr574, jahr) (Woche575,
+woche) (Minute576, minute) (Stunde577, stunde) (Welt578, welt)
+(Frage579, frage) (Antwort580, antwort) (Problem581, problem)
+(Lösung582, lösung) (Idee583, idee) (Plan584, plan) (Mann585, mann)
+(Frau586, frau) (Kind587, kind) (Tag588, tag) (Jahr589, jahr) (Woche590,
+woche) (Minute591, minute) (Stunde592, stunde) (Welt593, welt)
+(Frage594, frage) (Antwort595, antwort) (Problem596, problem)
+(Lösung597, lösung) (Idee598, idee) (Plan599, plan) (Mann600, mann)
+(Frau601, frau) (Kind602, kind) (Tag603, tag) (Jahr604, jahr) (Woche605,
+woche) (Minute606, minute) (Stunde607, stunde) (Welt608, welt)
+(Frage609, frage) (Antwort610, antwort) (Problem611, problem)
+(Lösung612, lösung) (Idee613, idee) (Plan614, plan) (Mann615, mann)
+(Frau616, frau) (Kind617, kind) (Tag618, tag) (Jahr619, jahr) (Woche620,
+woche) (Minute621, minute) (Stunde622, stunde) (Welt623, welt)
+(Frage624, frage) (Antwort625, antwort) (Problem626, problem)
+(Lösung627, lösung) (Idee628, idee) (Plan629, plan) (Mann630, mann)
+(Frau631, frau) (Kind632, kind) (Tag633, tag) (Jahr634, jahr) (Woche635,
+woche) (Minute636, minute) (Stunde637, stunde) (Welt638, welt)
+(Frage639, frage) (Antwort640, antwort) (Problem641, problem)
+(Lösung642, lösung) (Idee643, idee) (Plan644, plan) (Mann645, mann)
+(Frau646, frau) (Kind647, kind) (Tag648, tag) (Jahr649, jahr) (Woche650,
+woche) (Minute651, minute) (Stunde652, stunde) (Welt653, welt)
+(Frage654, frage) (Antwort655, antwort) (Problem656, problem)
+(Lösung657, lösung) (Idee658, idee) (Plan659, plan) (Mann660, mann)
+(Frau661, frau) (Kind662, kind) (Tag663, tag) (Jahr664, jahr) (Woche665,
+woche) (Minute666, minute) (Stunde667, stunde) (Welt668, welt)
+(Frage669, frage) (Antwort670, antwort) (Problem671, problem)
+(Lösung672, lösung) (Idee673, idee) (Plan674, plan) (Mann675, mann)
+(Frau676, frau) (Kind677, kind) (Tag678, tag) (Jahr679, jahr) (Woche680,
+woche) (Minute681, minute) (Stunde682, stunde) (Welt683, welt)
+(Frage684, frage) (Antwort685, antwort) (Problem686, problem)
+(Lösung687, lösung) (Idee688, idee) (Plan689, plan) (Mann690, mann)
+(Frau691, frau) (Kind692, kind) (Tag693, tag) (Jahr694, jahr) (Woche695,
+woche) (Minute696, minute) (Stunde697, stunde) (Welt698, welt)
+(Frage699, frage) (Antwort700, antwort) (Problem701, problem)
+(Lösung702, lösung) (Idee703, idee) (Plan704, plan) (Mann705, mann)
+(Frau706, frau) (Kind707, kind) (Tag708, tag) (Jahr709, jahr) (Woche710,
+woche) (Minute711, minute) (Stunde712, stunde) (Welt713, welt)
+(Frage714, frage) (Antwort715, antwort) (Problem716, problem)
+(Lösung717, lösung) (Idee718, idee) (Plan719, plan) (Mann720, mann)
+(Frau721, frau) (Kind722, kind) (Tag723, tag) (Jahr724, jahr) (Woche725,
+woche) (Minute726, minute) (Stunde727, stunde) (Welt728, welt)
+(Frage729, frage) (Antwort730, antwort) (Problem731, problem)
+(Lösung732, lösung) (Idee733, idee) (Plan734, plan) (Mann735, mann)
+(Frau736, frau) (Kind737, kind) (Tag738, tag) (Jahr739, jahr) (Woche740,
+woche) (Minute741, minute) (Stunde742, stunde) (Welt743, welt)
+(Frage744, frage) (Antwort745, antwort) (Problem746, problem)
+(Lösung747, lösung) (Idee748, idee) (Plan749, plan) (Mann750, mann)
+(Frau751, frau) (Kind752, kind) (Tag753, tag) (Jahr754, jahr) (Woche755,
+woche) (Minute756, minute) (Stunde757, stunde) (Welt758, welt)
+(Frage759, frage) (Antwort760, antwort) (Problem761, problem)
+(Lösung762, lösung) (Idee763, idee) (Plan764, plan) (Mann765, mann)
+(Frau766, frau) (Kind767, kind) (Tag768, tag) (Jahr769, jahr) (Woche770,
+woche) (Minute771, minute) (Stunde772, stunde) (Welt773, welt)
+(Frage774, frage) (Antwort775, antwort) (Problem776, problem)
+(Lösung777, lösung) (Idee778, idee) (Plan779, plan) (Mann780, mann)
+(Frau781, frau) (Kind782, kind) (Tag783, tag) (Jahr784, jahr) (Woche785,
+woche) (Minute786, minute) (Stunde787, stunde) (Welt788, welt)
+(Frage789, frage) (Antwort790, antwort) (Problem791, problem)
+(Lösung792, lösung) (Idee793, idee) (Plan794, plan) (Mann795, mann)
+(Frau796, frau) (Kind797, kind) (Tag798, tag) (Jahr799, jahr) (Woche800,
+woche) (Minute801, minute) (Stunde802, stunde) (Welt803, welt)
+(Frage804, frage)

@@ -1,80 +1,73 @@
-The dog and the book are near the river in the city. The cat and the car
-are near the mountain in the city. The house and the tree are near the
-sea in the city. The book and the flower are near the friend in the
-city. The car and the river are near the family in the city. The tree
-and the mountain are near the love in the city. The flower and the sea
-are near the city in the city. The river and the friend are near the
-country in the city. The mountain and the family are near the music in
-the city. The sea and the love are near the movie in the city. The
-friend and the city are near the game in the city. The family and the
-country are near the computer in the city. The love and the music are
-near the phone in the city. The city and the movie are near the table in
-the city. The country and the game are near the chair in the city. The
-music and the computer are near the window in the city. The movie and
-the phone are near the door in the city. The game and the table are near
-the bed in the city. The computer and the chair are near the clothes in
-the city. The phone and the window are near the shoe in the city. The
-table and the door are near the bread in the city. The chair and the bed
-are near the sun in the city. The window and the clothes are near the
-moon in the city. The door and the shoe are near the dog in the city.
-The bed and the bread are near the cat in the city. The clothes and the
-sun are near the house in the city. The shoe and the moon are near the
-book in the city. The bread and the dog are near the car in the city.
-The sun and the cat are near the tree in the city. The moon and the
-house are near the flower in the city. The dog and the book are near the
-river in the city. The cat and the car are near the mountain in the
-city. The house and the tree are near the sea in the city. The book and
-the flower are near the friend in the city. The car and the river are
-near the family in the city. The tree and the mountain are near the love
-in the city. The flower and the sea are near the city in the city. The
-river and the friend are near the country in the city. The mountain and
-the family are near the music in the city. The sea and the love are near
-the movie in the city. The friend and the city are near the game in the
-city. The family and the country are near the computer in the city. The
-love and the music are near the phone in the city. The city and the
-movie are near the table in the city. The country and the game are near
-the chair in the city. The music and the computer are near the window in
-the city. The movie and the phone are near the door in the city. The
-game and the table are near the bed in the city. The computer and the
-chair are near the clothes in the city. The phone and the window are
-near the shoe in the city. The table and the door are near the bread in
-the city. The chair and the bed are near the sun in the city. The window
-and the clothes are near the moon in the city. The door and the shoe are
-near the dog in the city. The bed and the bread are near the cat in the
-city. The clothes and the sun are near the house in the city. The shoe
-and the moon are near the book in the city. The bread and the dog are
-near the car in the city. The sun and the cat are near the tree in the
-city. The moon and the house are near the flower in the city. The dog
-and the book are near the river in the city. The cat and the car are
-near the mountain in the city. The house and the tree are near the sea
-in the city. The book and the flower are near the friend in the city.
-The car and the river are near the family in the city. The tree and the
-mountain are near the love in the city. The flower and the sea are near
-the city in the city. The river and the friend are near the country in
-the city. The mountain and the family are near the music in the city.
-The sea and the love are near the movie in the city. The friend and the
-city are near the game in the city. The family and the country are near
-the computer in the city. The love and the music are near the phone in
-the city. The city and the movie are near the table in the city. The
-country and the game are near the chair in the city. The music and the
-computer are near the window in the city. The movie and the phone are
-near the door in the city. The game and the table are near the bed in
-the city. The computer and the chair are near the clothes in the city.
-The phone and the window are near the shoe in the city. The table and
-the door are near the bread in the city. The chair and the bed are near
-the sun in the city. The window and the clothes are near the moon in the
-city. The door and the shoe are near the dog in the city. The bed and
-the bread are near the cat in the city. The clothes and the sun are near
-the house in the city. The shoe and the moon are near the book in the
-city. The bread and the dog are near the car in the city. The sun and
-the cat are near the tree in the city. The moon and the house are near
-the flower in the city. The dog and the book are near the river in the
-city. The cat and the car are near the mountain in the city. The house
-and the tree are near the sea in the city. The book and the flower are
-near the friend in the city. The car and the river are near the family
-in the city. The tree and the mountain are near the love in the city.
-The flower and the sea are near the city in the city. The river and the
-friend are near the country in the city. The mountain and the family are
-near the music in the city. The sea and the love are near the movie in
-the city.
-
+I use the pen every day. I use the pencil every day. I use the paper
+every day. I use the notebook every day. I use the bag every day. I use
+the backpack every day. I use the clock every day. I use the watch every
+day. I use the glass every day. I use the cup every day. I use the plate
+every day. I use the fork every day. I use the knife every day. I use
+the spoon every day. I use the kitchen every day. I use the bathroom
+every day. I use the bedroom every day. I use the livingroom every day.
+I use the roof every day. I use the floor every day. I use the wall
+every day. I use the ceiling every day. I use the garden every day. I
+use the park every day. I use the road every day. I use the highway
+every day. I use the bridge every day. I use the bus every day. I use
+the train every day. I use the plane every day. I use the airport every
+day. I use the station every day. I use the ticket every day. I use the
+travel every day. I use the journey every day. I use the trip every day.
+I use the holiday every day. I use the vacation every day. I use the
+beach every day. I use the island every day. I use the forest every day.
+I use the desert every day. I use the lake every day. I use the ocean
+every day. I use the weather every day. I use the rain every day. I use
+the storm every day. I use the cloud every day. I use the wind every
+day. I use the snow every day. I use the ice every day. I use the heat
+every day. I use the cold every day. I use the summer every day. I use
+the winter every day. I use the spring every day. I use the autumn every
+day. I use the season every day. I use the color every day. I use the
+red every day. I use the blue every day. I use the green every day. I
+use the yellow every day. I use the black every day. I use the white
+every day. I use the brown every day. I use the happy every day. I use
+the sad every day. I use the angry every day. I use the tired every day.
+I use the hungry every day. I use the thirsty every day. I use the fast
+every day. I use the slow every day. I use the big every day. I use the
+small every day. I use the short every day. I use the long every day. I
+use the young every day. I use the old every day. I use the new every
+day. I use the early every day. I use the late every day. I use the open
+every day. I use the close every day. I use the start every day. I use
+the finish every day. I use the begin every day. I use the end every
+day. I use the build every day. I use the break every day. I use the buy
+every day. I use the sell every day. I use the pay every day. I use the
+send every day. I use the receive every day. I use the help every day. I
+use the play every day. I use the run every day. I use the walk every
+day. I use the jump every day. I use the sit every day. I use the stand
+every day. I use the write every day. I use the read every day. I use
+the speak every day. I use the listen every day. I use the hear every
+day. I use the see every day. I use the look every day. I use the think
+every day. I use the know every day. I use the understand every day. I
+use the learn every day. I use the teach every day. I use the remember
+every day. I use the forget every day. I use the choose every day. I use
+the decide every day. I use the try every day. I use the win every day.
+I use the lose every day. I use the meet every day. I use the call every
+day. I use the answer every day. I use the ask every day. I use the tell
+every day. I use the show every day. I use the bring every day. I use
+the take every day. I use the give every day. I use the keep every day.
+I use the leave every day. I use the arrive every day. I use the stay
+every day. I use the live every day. I use the die every day. I use the
+grow every day. I use the change every day. I use the turn every day. I
+use the energy every day. I use the power every day. I use the light
+every day. I use the dark every day. I use the sound every day. I use
+the noise every day. I use the voice every day. I use the picture every
+day. I use the photo every day. I use the camera every day. I use the
+video every day. I use the screen every day. I use the keyboard every
+day. I use the mouse every day. I use the internet every day. I use the
+website every day. I use the email every day. I use the password every
+day. I use the account every day. I use the number every day. I use the
+letter every day. I use the word every day. I use the sentence every
+day. I use the question every day. I use the answer every day. I use the
+problem every day. I use the solution every day. I use the idea every
+day. I use the plan every day. I use the project every day. I use the
+job every day. I use the boss every day. I use the worker every day. I
+use the office every day. I use the meeting every day. I use the company
+every day. I use the business every day. I use the market every day. I
+use the price every day. I use the cost every day. I use the value every
+day. I use the service every day. I use the product every day. I use the
+customer every day. I use the client every day. I use the support every
+day. I use the system every day. I use the process every day. I use the
+result every day. I use the goal every day.
