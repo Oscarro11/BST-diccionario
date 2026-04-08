@@ -6,13 +6,14 @@ import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
+import java.nio.charset.StandardCharsets;
 
 public class LectorTexto {
     
     public static String leerTexto(String ruta) throws FileNotFoundException, IOException{
-        try(BufferedReader br = new BufferedReader(new FileReader(ruta));){
+        try(BufferedReader br = new BufferedReader(new FileReader(ruta, StandardCharsets.UTF_8))){
             StringBuilder builder = new StringBuilder();
-            String line = br.readLine();
+            String line = br.readLine();    
 
             while (line != null) {
                 builder.append(line);
